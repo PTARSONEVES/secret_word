@@ -3,7 +3,6 @@ import './PlayGame.css';
 
 const PlayGame = ({
   verifyLetter,
-  pickedWord,
   pickedCategory,
   letters,
   guessedLetters,
